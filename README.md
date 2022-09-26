@@ -1,4 +1,4 @@
-### NH Issue Tracker
+### NH Issue Tracker | Click [here](https://github.com/newhaven-rp/Issue-Tracker/issues "here")
 
 **Please use the follwoing format when submitting issues:**
 Title: "Title of your issue "
