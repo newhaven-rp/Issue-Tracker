@@ -1,7 +1,7 @@
 name: Asset Suggestion
 description: Suggestions for implementation of Cars and MLOS and etc.
 labels: ["suggestion"]
-title: "Suggestion - "
+title: "Asset Suggestion - "
 body:
   - type: markdown
     attributes:
