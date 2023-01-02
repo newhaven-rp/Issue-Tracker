@@ -20,7 +20,7 @@ body:
     attributes:
       label: User Information
       description: What is your Name?
-      placeholder: ex: Sas Quatch
+      placeholder: Sas Quatch
     validations:
       required: true          
   - type: textarea
