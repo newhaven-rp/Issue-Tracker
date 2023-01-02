@@ -33,14 +33,14 @@ body:
   - type: textarea
     id: steps
     attributes:
-      label: How To Reproduce This Bug:
+      label: How To Reproduce This Bug
       description: Include what steps that are needed in order to reproduce this issue.
     validations:
       required: true
   - type: textarea
     id: expected
     attributes:
-      label: Expected Results From This Activity:
+      label: Expected Results From This Activity
       description: When doing this activity, what is the expected result before experiencing the bug?
     validations:
       required: true
@@ -55,6 +55,6 @@ body:
     id: screenshots
     attributes:
       label: Screenshots/Videos
-      description: Provide any screenshots of your console or videos of the bug you experiencing.
+      description: Provide any screenshots of your F8 console or videos of the bug you experiencing.
     validations:
       required: false             
