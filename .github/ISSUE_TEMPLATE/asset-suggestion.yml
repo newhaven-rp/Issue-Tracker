@@ -1,0 +1,31 @@
+name: Asset Suggestion
+description: Suggestions for implementation of Cars and MLOS and etc.
+labels: ["suggestion"]
+title: "Suggestion - "
+body:
+  - type: markdown
+    attributes:
+      value: "Before opening a new issue, please search existing issues:  https://github.com/newhaven-rp/Issue-Tracker/issues"
+  - type: dropdown
+    id: assurance
+    attributes:
+      label: Assurance
+      description: Have you read through the rules from the `README.md` file?
+      options:
+        - I have read the `README.md`
+    validations:
+      required: true         
+  - type: textarea
+    id: summary
+    attributes:
+      label: Asset Suggestion
+      description: Please provide your suggestion here and the reasoning for adding it to the server
+    validations:
+      required: true
+  - type: textarea
+    id: reason
+    attributes:
+      label: Link
+      description: If you have a link to this asset suggestion please provide it below.
+    validations:
+      required: true
