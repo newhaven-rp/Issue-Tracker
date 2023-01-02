@@ -1,0 +1,31 @@
+name: Server Suggestion
+description: For Suggestions regarding the Server. Please consider any chances to the economy and balance of the server when requesting
+labels: ["suggestion"]
+title: "Server Suggestion - "
+body:
+  - type: markdown
+    attributes:
+      value: "Before opening a new issue, please search existing issues:  https://github.com/newhaven-rp/Issue-Tracker/issues"
+  - type: dropdown
+    id: assurance
+    attributes:
+      label: Assurance
+      description: Have you read through the rules from the `README.md`?
+      options:
+        - I have read the `README.md`
+    validations:
+      required: true         
+  - type: textarea
+    id: summary
+    attributes:
+      label: Server Suggestion 
+      description: Please provide a detailed description of your server suggestion.
+    validations:
+      required: true
+  - type: textarea
+    id: reason
+    attributes:
+      label: Reason
+      description: Why do you believe that your suggestion would benefit NHRP?
+    validations:
+      required: true
