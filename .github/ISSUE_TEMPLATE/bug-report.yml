@@ -55,6 +55,6 @@ body:
     id: screenshots
     attributes:
       label: Screenshots/Videos
-      description: Provide any screenshots of your F8 console or videos of the bug you experiencing.
+      description: Provide any screenshots of your F8 console or videos of the bug you're experiencing.
     validations:
       required: false             
