@@ -1,0 +1,31 @@
+name: Vehicle Issues
+description: Any Vehicle related issues including performance, visual, or modification issues.
+labels: ["issue"]
+title: "Vehicle Issues- "
+body:
+  - type: markdown
+    attributes:
+      value: "Before opening a new issue, please search existing issues:  https://github.com/newhaven-rp/Issue-Tracker/issues"
+  - type: dropdown
+    id: assurance
+    attributes:
+      label: Assurance
+      description: Have you read through the rules from the `README.md`?
+      options:
+        - I have read the `README.md`
+    validations:
+      required: true         
+  - type: textarea
+    id: summary
+    attributes:
+      label: Vehicle Issues 
+      description: Please provide a detailed description of your vehicle issue.
+    validations:
+      required: true
+  - type: textarea
+    id: proof
+    attributes:
+      label: Screenshot or Video
+      description: Please provide any screenshots or videos of your issue
+    validations:
+      required: true
