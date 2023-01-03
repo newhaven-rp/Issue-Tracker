@@ -13,4 +13,5 @@ To make sure we're all on the same page about what this issue tracker is meant f
 **#2.** When creating a new issue please select the proper type of report and be sure to follow the template as provided.<br/>
 **#3.** Be sure to provide a proper title to your post.<br/>
 **#4.** As stated, providing comments and information on already created topics is completely fine, however make sure your comments provide relevant information to the topic. Any comments left with no information or proof will not be engaged.<br/>
-**#5.** Make sure your posts and suggestions provide as much information as possible instead of vague comments.
+**#5.** Make sure your posts and suggestions provide as much information as possible instead of vague comments.<br/>
+**#6.** When providing a bug report or issue, please ensure you submit a screen shot of your F8 Console when requested.
