@@ -1,3 +1,4 @@
+![NHRP Banner](https://i.imgur.com/OsuWorX.png)
 ## New Haven Roleplay
 As an ever expanding and growing community with the goal to provide the best experience for civilians, criminals, and all alike - we are dedicated to working on all issues our community brings us. Please do not hesitate to leave your suggestions and bugs within our Issue Tracker.
 
